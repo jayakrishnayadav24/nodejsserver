@@ -10,7 +10,7 @@ Pre-requisite for the project: NodeJS and Mysql
 	npm install
 	npm start
 	
-	Note: Your ReactJS app will be ready and running on your machine
+	Note:     Your ReactJS app will be ready and running on your machine
 	
 	Build: If you would like to create the build(Static files ie.. Plain HTML, CSS & JS), then execute the below command:
 	npm run build
